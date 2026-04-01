@@ -63,8 +63,8 @@
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/demiyan/subdomain-enumerator
-cd subdomain-enumerator
+git clone https://github.com/Dexel-Software-Solutions/Subdomain-hunter.git
+cd Subdomain-hunter
 pip install -r requirements.txt
 ```
 
